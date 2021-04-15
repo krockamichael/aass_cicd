@@ -1,0 +1,46 @@
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\appsettings.json
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.exe
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.deps.json
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.runtimeconfig.json
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.runtimeconfig.dev.json
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.dll
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\ref\AASS_5.dll
+C:\Users\krock\Desktop\AASS_5\bin\Debug\net5.0\AASS_5.pdb
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.csprojAssemblyReference.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.AssemblyInfoInputs.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.AssemblyInfo.cs
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.csproj.CoreCompileInputs.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\staticwebassets\AASS_5.StaticWebAssets.Manifest.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\staticwebassets\AASS_5.StaticWebAssets.xml
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\scopedcss\bundle\AASS_5.styles.css
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.RazorTargetAssemblyInfo.cache
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.dll
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\ref\AASS_5.dll
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.pdb
+C:\Users\krock\Desktop\AASS_5\obj\Debug\net5.0\AASS_5.genruntimeconfig.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.csprojAssemblyReference.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.AssemblyInfoInputs.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.AssemblyInfo.cs
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.csproj.CoreCompileInputs.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.dll
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\ref\AASS_5.dll
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.pdb
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\appsettings.json
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.exe
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.deps.json
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.runtimeconfig.json
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.runtimeconfig.dev.json
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.dll
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\ref\AASS_5.dll
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\bin\Debug\net5.0\AASS_5.pdb
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\staticwebassets\AASS_5.StaticWebAssets.Manifest.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\staticwebassets\AASS_5.StaticWebAssets.xml
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\scopedcss\bundle\AASS_5.styles.css
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.RazorTargetAssemblyInfo.cache
+C:\Users\krock\OneDrive\Documents\FIIT\Inžinier\2. Semester\AASS\Cvičenia\5\AASS_5\obj\Debug\net5.0\AASS_5.genruntimeconfig.cache
